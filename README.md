@@ -1,12 +1,15 @@
-🕰️ Standby Clock
-A sleek and customizable digital clock for Android, designed to run in landscape mode with a minimalist, always-on display.
+# Standby Clock  
 
-✨ Features:
-✔️ 24-Hour Digital Clock with smooth UI
-✔️ Custom Font Support (SF Pro Display)
-✔️ No Status Bar – Fullscreen immersive experience
-✔️ Automatic Rotation – Starts in landscape mode
-✔️ Soft Glow Effect for an elegant look
+A simple and elegant **standby clock** Android app that displays a **digital clock** with a customizable UI. Designed to be a minimalistic clock for devices in standby mode.  
 
-🔹 Built using Android Studio & XML UI Design
-🔹 Ideal for desk clocks, nightstands, or always-on displays
+## Features  
+✅ **24-hour digital clock** display  
+✅ Uses **custom fonts** for a sleek design  
+✅ **Shadow effects** for enhanced visibility  
+✅ **Full-screen mode** with hidden status bar  
+✅ **Auto-rotates** to landscape mode on startup  
+
+## Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/Standby_Clock.git
